@@ -69,7 +69,7 @@ I am **not** responsible for anything that happens after you hit the run button.
 
 If you prefer to clone the repository, use the following command:
 ```bash
-git clone https://github.com/your-username/TorDDoS-Guard.git
+git clone https://github.com/unsagtools/TorDDoS-Guard.git
 cd TorDDoS-Guard
 
 
@@ -146,7 +146,7 @@ sudo apt install nmap
 
 Contributors
 
-Your Name – Creator, Script Developer
+Anonymous NJR– Creator, Script Developer
 
 Community Contributions – Feel free to open an issue or submit a p request.
 
